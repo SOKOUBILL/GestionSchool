@@ -1,0 +1,11 @@
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\bin\Debug\GestionSchool.exe.config
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\bin\Debug\GestionSchool.exe
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\bin\Debug\GestionSchool.pdb
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.csproj.AssemblyReference.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.csproj.CoreCompileInputs.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.csproj.CopyComplete
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.exe
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\taf1\GestionSchool\GestionSchool\obj\Debug\GestionSchool.pdb
